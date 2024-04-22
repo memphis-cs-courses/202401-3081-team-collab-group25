@@ -4,4 +4,7 @@ class PagesController < ApplicationController
 
   def jonnienguyen
   end
+  
+  def AmandaANgo
+  end
 end
